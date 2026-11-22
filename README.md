@@ -22,6 +22,10 @@ Ein 3D-druckbarer **Ersatz-Scharnierbolzen für Mülltonnen mit sternförmiger D
 
 Vor dem Druck die eigene Aufnahme und Deckelbohrung vergleichen: Auch Tonnen derselben Marke können andere Scharniere haben. Die Dicke der Deckelöse ist in den 40 mm Schaftlänge enthalten.
 
+<p align="center"><img src="bilder/sternaufnahme.jpg" width="480" alt="Sternförmige Aufnahme an der Tonne und runde Bohrung der Deckelöse"></p>
+
+*Sternaufnahme an der Tonne (oben) und runde Deckelbohrung (unten).*
+
 ## Drucken
 
 Empfohlene Einstellungen:
